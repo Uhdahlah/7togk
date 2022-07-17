@@ -14,108 +14,48 @@
 "davinci":{
     "Permission": "davinci.wing",
     "Price": "1299"},
-  Button:
 "devil": {
-    "Permission": "devil.wing"
-    "Price": 710
-  Button:
-    Name: "§l§4Devil §eWings"
-7:
-  Wings:
-    Name: "diamond"
-    "Permission": "diamond.wing"
-    "Price": "899"
-  Button:
-    Name: "§l§bDiamond §eWings"
-8:
-  Wings:
-    Name: "legendarydragonknight"
-    "Permission": "legendarydragonknight.wing"
-    "Price": "1455"
-  Button:
-    Name: "§l§cLegendary §4Dragon §fKnight"
-9:
-  Wings:
-    Name: "monarchbutterfly"
-    "Permission": "monarchbutterfly.wing"
-    "Price": "1455"
-  Button:
-    Name: "§l§bMonarch §cButter§dfly §eWings"
-10:
-  Wings:
-    Name: "razor"
-    "Permission": "razor.wing"
-    "Price": "8992
-  Button:
-    Name: "§l§eRazor §eWings"
-11:
-  Wings:
-    Name: "robotic"
-    "Permission": "robotic.wing"
-    Price: 899
-  Button:
-    Name: "§l§bRobo§3tic §eWings"
-12:
-  Wings:
-    Name: "AngelWhite"
-    Permission: "angelwhite.wing"
-    Price: 545
-  Button:
-    Name: "§l§bAngel§fWhite §eWings"
-13:
-  Wings:
-    Name: "BloodWings"
-    Permission: "bloodwings.wing"
-    Price: 710
-  Button:
-    Name: "§l§cBlood §eWings"
-14:
-  Wings:
-    Name: "BWBlue"
-    Permission: "bwblue.wing"
-    Price: 710
-  Button:
-    Name: "§l§cB§eW §bBlue §eWings"
-15:
-  Wings:
-    Name: "BWGreen"
-    Permission: "bwgreen.wing"
-    Price: 710
-  Button:
-    Name: "§l§cB§eW §aGreen §eWings"
-16:
-  Wings:
-    Name: "BWWhite"
-    Permission: "bwwhite.wing"
-    Price: 710
-  Button:
-    Name: "§l§cB§eW §fWhite §eWings"
-17:
-  Wings:
-    Name: "CloudAngel"
-    Permission: "cloudangel.wing"
-    Price: 545
-  Button:
-    Name: "§l§bCloud§3Angel §eWings"
-18:
-  Wings:
-    Name: "DevilEvolution"
-    Permission: "devilevolution.wing"
-    Price: 645
-  Button:
-    Name: "§l§4Devil §dEvolution §eWings"
-19:
-  Wings:
-    Name: "EnderWings"
-    Permission: "enderwings.wing"
-    Price: 150
-  Button:
-    Name: "§l§dEnder §eWings"
-20:
-  Wings:
-    Name: "FireBlaze"
-    Permission: "fireblaze.wing"
-    Price: 545
-  Button:
-    Name: "§l§gFire§6Blaze §eWings"
-    }}
+    "Permission": "devil.wing",
+    "Price": "710"},
+"diamond": {
+    "Permission": "diamond.wing",
+    "Price": "899"},
+"legendarydragonknight":{
+    "Permission": "legendarydragonknight.wing",
+    "Price": "1455"},
+"monarchbutterfly": {
+"Permission": "monarchbutterfly.wing",
+    "Price": "1455"},
+"razor": {
+    "Permission": "razor.wing",
+    "Price": "8992"},
+"robotic": {
+    "Permission": "robotic.wing",
+    "Price": "899"},
+"AngelWhite": {
+    "Permission": "angelwhite.wing",
+    "Price": "545"},
+"BloodWings": {
+    "Permission": "bloodwings.wing",
+    "Price": "710"},
+"BWBlue": {
+    "Permission": "bwblue.wing",
+    "Price": "710"},
+"BWGreen": {
+    "Permission": "bwgreen.wing",
+    "Price": "710"},
+"BWWhite": {
+    "Permission": "bwwhite.wing",
+    "Price": "710"},
+"CloudAngel": { 
+    "Permission": "cloudangel.wing",
+    "Price": "545"},
+"DevilEvolution": {
+    "Permission": "devilevolution.wing",
+    "Price": "645"},
+"EnderWings": {
+    "Permission": "enderwings.wing",
+    "Price": "150"},
+"FireBlaze": {
+    "Permission": "fireblaze.wing",
+    "Price": "545"}}}
