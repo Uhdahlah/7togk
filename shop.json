@@ -1,0 +1,25 @@
+{
+    "status": "true",
+    "judul": "7TOGK-SHOP",
+    "barang": {
+        "coin": {
+            "min": 300,
+            "price": 10,
+            "message": "thanks for buy"
+        },
+        "jasa":{
+            "barang1":{ 
+                "name": "plugin server",
+                "message":"thanks for use",
+                "price": "10k",
+                "value": "pl"
+        },
+        "barang2": {
+            "name": "setup and fix",
+            "message":"thanks for use",
+            "price":"10k",
+            "value": "snf"
+        }
+}
+}
+}
