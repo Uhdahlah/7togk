@@ -4,6 +4,7 @@
     "barang": {
         "coin": {
             "min": 300,
+            "max": 10000,
             "price": 10,
             "message": "thanks for buy"
         },
